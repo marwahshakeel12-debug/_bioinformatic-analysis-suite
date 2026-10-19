@@ -1,0 +1,8 @@
+{
+  "name": "Remix Integrated Bioinformatics Analysis Software",
+  "description": "Integrated Platform for Biological Sequence Analysis",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
